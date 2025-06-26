@@ -2,6 +2,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework In memory cache memory leak minimum reproduction code
 
+issue: https://github.com/nestjs/cache-manager/issues/805
+
 ## Installation & Setup
 
 1. **Install dependencies:**
